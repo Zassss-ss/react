@@ -7,6 +7,7 @@ export default function AlertDemo() {
             <Alert type='Info'></Alert>
             <Alert type='Warning'></Alert>
             <Alert type='error'></Alert>
+            
         </div>
     )
 }

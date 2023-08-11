@@ -1,6 +1,6 @@
 ---
 hero:
-  title: react-dumi-zh
+  title: pinket-ant
   desc: 一套易用的轻量级的React UI 组件库
   actions:
     - text: 开始使用
